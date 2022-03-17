@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> 
+        Learning HTML Developing
+    </title>
+</head>
+<body>
+     Hello world
+     <p>
+        <strong> Introduction:</strong>The first section of a <em>paragraph</em>; should include the topic sentence and any other sentences at <b>the beginning of the paragraph</b> that give background information or provide a transition. <small> content</small>
+     </p>
+</body>
+</html>
